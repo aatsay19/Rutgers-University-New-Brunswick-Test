@@ -1,4 +1,6 @@
-Link to official site description: https://introcs.cs.rutgers.edu/assignment-pseudocode/
+My solution to this assignment received a grade of 19.1 out of 20. The things that were marked wrong were minimum number of operations for Problem 2 (0 out of 0.2 points), maximum number of operations for Problem 2 (0 out of 0.2 points), and maximum number of operations for Problem 3 (0 out of 0.2 points). The parts that I only lost partial credit for were correct use of loop condition in Problem 4 (lost 0.2 out of 1.0 points) and maximum number of operations in Problem 4 (lost 0.1 out of 0.2 points).<br/><br/>
+
+Link to official site description: https://introcs.cs.rutgers.edu/assignment-pseudocode/ <br/><br/>
 
 # Pseudocode, test cases, and counting operations – 20 course points
 In this assignment you will develop algorithms for problems described below, write test cases that exercise all the possible algorithm execution paths, and calculate the number of operations that are executed in certain algorithmic paths.<br/>
