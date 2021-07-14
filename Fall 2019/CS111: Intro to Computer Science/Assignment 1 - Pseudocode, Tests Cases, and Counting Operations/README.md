@@ -43,7 +43,7 @@ For each of the following problems provide:
 5. *Collaboration policy*. Read our collaboration policy [here](https://introcs.cs.rutgers.edu/#academic-integrity).
 6. _Writeup_. Use your preferred text editor to type your answers, and then save the file in **PDF** format. We will only grade typed assignments and in PDF format. You will use [Gradescope](https://www.gradescope.com/) to submit your assignment. If you have not yet used Gradescope, go to your scarletmail inbox and look for an email from Gradescope with instructions on how to access your account.
 7. *On Gradescope read*. Help −> Student Workflow −> Submitting a PDF for instructions on how to submit your PDF file.
-8. _Submitting the assignment_. Submit your assignment via the Web submission system called Gradescope. To do this, click the *Assignments* link from the course website; click the _Submit_ link for that assignment.
+8. _Submitting the assignment_. Submit your assignment via the Web submission system called Gradescope. To do this, click the *Assignments* link from the course website; click the _Submit_ link for that assignment.<br/><br/><br/>
 
 ## Getting help
 If anything is unclear, don’t hesitate to drop by office hours or post a question on Piazza. Find instructors office hours by clicking the [Staff](https://introcs.cs.rutgers.edu/staff/) link from the course website. You are welcome to any professor office hours.
