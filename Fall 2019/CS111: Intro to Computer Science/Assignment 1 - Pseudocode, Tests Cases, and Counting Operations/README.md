@@ -1,4 +1,9 @@
-My solution to this assignment received a grade of 19.1 out of 20. The things that were marked wrong were minimum number of operations for Problem 2 (0 out of 0.2 points), maximum number of operations for Problem 2 (0 out of 0.2 points), and maximum number of operations for Problem 3 (0 out of 0.2 points). The parts that I only lost partial credit for were correct use of loop condition in Problem 4 (lost 0.2 out of 1.0 points) and maximum number of operations in Problem 4 (lost 0.1 out of 0.2 points).<br/><br/>
+My solution to this assignment received a grade of 19.1 out of 20. The things marked wrong were:
+- Minimum number of operations for Problem 2 (0 out of 0.2 points)
+- Maximum number of operations for Problem 2 (0 out of 0.2 points)
+- Maximum number of operations for Problem 3 (0 out of 0.2 points) 
+- Correct use of loop condition in Problem 4 (lost 0.2 out of 1.0 points) (partial credit lost)
+- Maximum number of operations in Problem 4 (lost 0.1 out of 0.2 points) (partial credit lost)<br/><br/>
 
 Link to official site description: https://introcs.cs.rutgers.edu/assignment-pseudocode/ <br/><br/>
 
