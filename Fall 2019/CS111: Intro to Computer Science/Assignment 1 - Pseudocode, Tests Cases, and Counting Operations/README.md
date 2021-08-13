@@ -1,14 +1,6 @@
-My solution to this assignment received a grade of 19.1 out of 20. The things marked wrong were:
-- Minimum number of operations for Problem 2 (0 out of 0.2 points)
-- Maximum number of operations for Problem 2 (0 out of 0.2 points)
-- Maximum number of operations for Problem 3 (0 out of 0.2 points) 
-- Correct use of loop condition in Problem 4 (lost 0.2 out of 1.0 points) (partial credit lost)
-- Maximum number of operations in Problem 4 (lost 0.1 out of 0.2 points) (partial credit lost)<br/><br/>
-
-Link to official site description: https://introcs.cs.rutgers.edu/assignment-pseudocode/ <br/><br/>
-
 # Pseudocode, test cases, and counting operations – 20 course points
-In this assignment you will develop algorithms for problems described below, write test cases that exercise all the possible algorithm execution paths, and calculate the number of operations that are executed in certain algorithmic paths.<br/>
+Link to official site description (All links are working as of August 13, 2021): https://introcs.cs.rutgers.edu/assignment-pseudocode/ <br/><br/>
+In this assignment you will develop algorithms for problems described below, write test cases that exercise all the possible algorithm execution paths, and calculate the number of operations that are executed in certain algorithmic paths.<br/><br/>
 
 ## Assignment
 For each of the following problems provide:
@@ -51,4 +43,11 @@ For each of the following problems provide:
 8. _Submitting the assignment_. Submit your assignment via the Web submission system called Gradescope. To do this, click the *Assignments* link from the course website; click the _Submit_ link for that assignment.<br/><br/><br/>
 
 ## Getting help
-If anything is unclear, don’t hesitate to drop by office hours or post a question on Piazza. Find instructors office hours by clicking the [Staff](https://introcs.cs.rutgers.edu/staff/) link from the course website. You are welcome to any professor office hours.
+If anything is unclear, don’t hesitate to drop by office hours or post a question on Piazza. Find instructors office hours by clicking the [Staff](https://introcs.cs.rutgers.edu/staff/) link from the course website. You are welcome to any professor office hours.<br/><br/><br/>
+
+My solution to this assignment received a grade of 19.1 out of 20. The things marked wrong were:
+- Minimum number of operations for Problem 2 (0 out of 0.2 points)
+- Maximum number of operations for Problem 2 (0 out of 0.2 points)
+- Maximum number of operations for Problem 3 (0 out of 0.2 points) 
+- Correct use of loop condition in Problem 4 (lost 0.2 out of 1.0 points) (partial credit lost)
+- Maximum number of operations in Problem 4 (lost 0.1 out of 0.2 points) (partial credit lost)<br/><br/>
